@@ -11,7 +11,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.css" rel="stylesheet">
     <script type="text/javasript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.3.0/mdb.min.js"></script>
 </head>
-<body class="bg-dark">
+<body class="bg-link">
     <div class="container w-25 mt-5">
         <div class="card shadow-sm">
             <div class="card-body">
